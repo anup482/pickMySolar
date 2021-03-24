@@ -1,0 +1,56 @@
+!SESSION 2021-03-23 18:15:16.810 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /var/www/mn-testing/PMS -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 18:15:36.232
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.MarkDuplicateElementIdsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 18:15:36.235
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.MarkDuplicateLabelsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 18:15:36.236
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.MarkDuplicateAttributesHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 18:15:36.237
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.RepairDuplicateItemsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 18:15:36.237
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.UnmarkItemsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 18:15:36.238
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.AutosizeColumnsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 18:15:36.239
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.ResetToDefaultHandler
+!SESSION 2021-03-23 19:29:52.718 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /var/www/mn-testing/PMS -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 19:30:13.914
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.MarkDuplicateElementIdsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 19:30:13.934
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.MarkDuplicateLabelsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 19:30:13.934
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.MarkDuplicateAttributesHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 19:30:13.935
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.RepairDuplicateItemsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 19:30:13.937
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.UnmarkItemsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 19:30:13.938
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.AutosizeColumnsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2021-03-23 19:30:13.939
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.ResetToDefaultHandler

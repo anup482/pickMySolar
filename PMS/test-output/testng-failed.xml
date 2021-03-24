@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Main Test Suite]">
+  <test name="Meritnation API Functional Testing(failed)">
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="ap"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.applect.meritnation.scripts.TrackingAPITest">
+        <methods>
+          <include name="TC_001_clcikt"/>
+          <include name="deleteOutputDirectory"/>
+        </methods>
+      </class> <!-- com.applect.meritnation.scripts.TrackingAPITest -->
+    </classes>
+  </test> <!-- Meritnation API Functional Testing(failed) -->
+</suite> <!-- Failed suite [Main Test Suite] -->

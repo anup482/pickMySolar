@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.applect.meritnation.scripts.TrackingAPITest">
+        <methods>
+          <include name="preOpenVidu"/>
+          <include name="postConditionMobile"/>
+          <include name="postConditionCurrentTask"/>
+          <include name="deleteOutputDirectory"/>
+          <include name="preConditionMainApp"/>
+          <include name="precondition"/>
+          <include name="TC_001_TrackingAPITest"/>
+          <include name="preConditionWeb"/>
+          <include name="preconditionforCRM"/>
+          <include name="postCondition"/>
+          <include name="postCondition"/>
+          <include name="preconditionapi"/>
+          <include name="TC_001_clcikt"/>
+        </methods>
+      </class> <!-- com.applect.meritnation.scripts.TrackingAPITest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

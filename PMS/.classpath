@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Jar Files/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="Jar Files/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="Jar Files/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="Jar Files/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="Jar Files/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="Jar Files/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="Jar Files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="Jar Files/mail.jar"/>
+	<classpathentry kind="lib" path="Jar Files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="Exe Files/testng-6.13.1.jar"/>
+	<classpathentry kind="lib" path="Jar Files/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="Jar Files/asm-all-3.3.1.jar"/>
+	<classpathentry kind="lib" path="Jar Files/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="Jar Files/java-client-7.0.0.jar"/>
+	<classpathentry kind="lib" path="Jar Files/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="Jar Files/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="Jar Files/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="Jar Files/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="Jar Files/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="Jar Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Jar Files/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="Jar Files/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="Jar Files/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="Jar Files/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="Jar Files/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="Jar Files/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="Jar Files/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="Jar Files/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="Jar Files/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="lib" path="Jar Files/webdrivermanager-3.6.0.jar"/>
+	<classpathentry kind="lib" path="Jar Files/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Jar Files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="Jar Files/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="Jar Files/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="Jar Files/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="Jar Files/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="Jar Files/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="Jar Files/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="Jar Files/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="Jar Files/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="Jar Files/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="Jar Files/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="Jar Files/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="Jar Files/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="Jar Files/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="Jar Files/rest-assured-4.1.2.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
